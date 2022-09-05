@@ -39,7 +39,6 @@ I love creating interesting things and going to interesting places. Currently at
 
 👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
-📄  [PDF Of projects](https://github.com/timmy6figures/timmy6figures/blob/main/ProjectsPDF.pdf)
 
   
 ## 🤝Reach out!
@@ -72,5 +71,8 @@ I'm always happy to talk to new people. Feel free to contact me with anything yo
 
 
 
+📄  [PDF Of projects](https://github.com/timmy6figures/timmy6figures/blob/main/ProjectsPDF.pdf)
 
+<!---
 [Website](https://timmy6figures.com)
+-->
