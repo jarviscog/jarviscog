@@ -29,13 +29,13 @@ I love creating interesting things and going to interesting places. Currently at
 
 - 🧑‍🎓Graduating from Western University
 - 🌸Learning more front-end frameworks like React and Flask
-- 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [AutoAnki](https://github.com/timmy6figures/AutoAnki)
+- 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [auto-anki](https://github.com/timmy6figures/auto-anki)
 - 🗣Meeting new people and connections
 
 
 ## 💡Some of the more interesting projects I have worked on in the past
 
-📝  [AutoAnki](https://github.com/timmy6figures/AutoAnki) is a tool to help create decks for Anki, a flashcard memorization tool. 
+📝  [auto-anki](https://github.com/timmy6figures/auto-anki) is a tool to help create decks for Anki, a flashcard memorization tool. 
 
 👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
