@@ -41,6 +41,7 @@ I love creating interesting things and going to interesting places. Currently at
 
 👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
+🎹 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano that plays itself! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
 
   
 ## 🤝Reach out!
