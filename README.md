@@ -31,7 +31,8 @@ I love creating interesting things and going to interesting places. Currently at
 - 🧑‍🎓Graduating from Western University
 - 🌸Learning more front-end frameworks like React and Flask
 - 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [auto-anki](https://github.com/timmy6figures/auto-anki)
-- 🗣Meeting new people and connections
+- 🗣Meeting new people and making connections
+- ♣️Joining clubs and meeting new people
 
 
 ## 💡Some of the more interesting projects I have worked on in the past
