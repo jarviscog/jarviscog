@@ -72,8 +72,7 @@ I'm always happy to talk to new people. Feel free to contact me with anything yo
   
 </p>
 
-## Oter Resources
-### 📄  [Resume](Resume.pdf)  
-### 📄  [PDF Of projects](https://github.com/timmy6figures/timmy6figures/blob/main/ProjectsPDF.pdf)
+## Other Resources
+### 📄  [PDF Of Projects](https://github.com/timmy6figures/timmy6figures/blob/main/ProjectsPDF.pdf)
 ### 👨‍💻  [timmy6figures.org](https://timmy6figures.org)
 
