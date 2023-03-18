@@ -1,6 +1,6 @@
 # Hey! <img src="wave.gif" data-canonical-src="wave.gif" width="30" height="30" /> I'm Jarvis
 ## Welcome to my Github! 
-I love creating interesting things and going to interesting places. Currently attending Western University for Computer Science, and planning to work freelance after graduating. For me having skill in many subjects is very important, and I always go out of my to learn new skills and gain an understanding in things that are just above my current skill level.
+I love creating interesting things and going to interesting places. Currently attending Western University for Computer Science. For me having skill in many subjects is very important, and I always go out of my to learn new skills and gain an understanding in things that are just above my current skill level.
 
 ## Skills
 
