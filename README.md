@@ -25,10 +25,10 @@ I love creating interesting things and going to interesting places. Currently at
 ## I'm currently working on
 
 
-- 🧑‍🎓Graduating from Western University
-- 🌸Learning more front-end frameworks like React and Flask
+- 🧑‍🎓Studying abroad at City University of Hong Kong 🇭🇰
+- 🌸Learning new languages like Rust and Component Pascal for CNC G-Code
 - 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [auto-anki](https://github.com/timmy6figures/auto-anki)
-- 🗣Meeting new people and making connections
+- Completing cybersecurity challanges such as [Hack the Box](https://www.hackthebox.com/)
 
 
 ## 💡Some of the more interesting projects I have worked on in the past
@@ -38,6 +38,8 @@ I love creating interesting things and going to interesting places. Currently at
 👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
 🎹 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano that plays itself! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
+
+📺 [NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language
 
   
 ## 🤝Reach out!
@@ -60,8 +62,6 @@ I'm always happy to talk to new people. Feel free to contact me with anything yo
   <a href="https://discordapp.com/users/timmy6figures#3912" title="Discord">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  
-  
   <a href="https://u.wechat.com/kKhMIBXoO9No_dYoapjLPH8" title="Wechat">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="Wechat" />
   </a>
