@@ -43,7 +43,7 @@ I love creating interesting things and going to interesting places. Currently at
 
 ♟️ [Cota](https://github.com/timmy6figures/cota) is a board game that mixes elements from Chess, 象棋, Shogi, and Go. The game was created by a Vietnamese friend, and this is a virtual version that I used to learn the Rust language.
 
-🌊 [openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer grahics course taken at University. OpenGL was used during the course, and some interesting algorithms and teqniques were used during the course, such as a marching cubes algoritim.
+🌊 [openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer graphics course taken at University. OpenGL was used during the course, and some interesting algorithms and techniques were used during the course, such as a marching cubes algorithm.
 
   
 ## 🤝Reach out!
