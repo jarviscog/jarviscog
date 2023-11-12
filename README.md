@@ -31,7 +31,7 @@ I love creating interesting things and going to interesting places. Currently at
 - Completing cybersecurity challanges such as [Hack the Box](https://www.hackthebox.com/)
 
 
-## 💡Some of the more interesting projects I have worked on in the past
+## 💡Some of my most interesting projects💡
 
 📝  [auto-anki](https://github.com/timmy6figures/auto-anki) is a tool to help create decks for Anki, a flashcard memorization tool. 
 
@@ -39,7 +39,11 @@ I love creating interesting things and going to interesting places. Currently at
 
 🎹 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano that plays itself! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
 
-📺 [NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language
+📺 [NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language.
+
+♟️ [Cota](https://github.com/timmy6figures/cota) is a board game that mixes elements from Chess, 象棋, Shogi, and Go. The game was created by a Vietnamese friend, and this is a virtual version that I used to learn the Rust language.
+
+🌊 [openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer grahics course taken at University. OpenGL was used during the course, and some interesting algorithms and teqniques were used during the course, such as a marching cubes algoritim.
 
   
 ## 🤝Reach out!
@@ -68,7 +72,7 @@ I'm always happy to talk to new people. Feel free to contact me with anything yo
   
 </p>
 
-## Other Resources
-### 📄  [PDF Of Projects](https://github.com/timmy6figures/timmy6figures/blob/main/ProjectsPDF.pdf)
+## Resources
+#### 📄  [Projects](https://github.com/timmy6figures/timmy6figures/blob/main/Projects.pdf)
 
 
