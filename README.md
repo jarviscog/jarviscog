@@ -1,6 +1,6 @@
 # Hey! <img src="wave.gif" data-canonical-src="wave.gif" width="30" height="30" /> I'm Jarvis
 ## Welcome to my Github! 
-I love creating interesting things and going to interesting places. Currently attending Western University for Computer Science. For me having skill in many subjects is very important, and I always go out of my to learn new skills and gain an understanding in things that are just above my current skill level.
+Current student at Western University for Computer Science with a Minor in Computer Hardware
 
 ## Skills
 
@@ -16,9 +16,7 @@ I love creating interesting things and going to interesting places. Currently at
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-orange.svg?style=flat&logo=rust&logoColor=white)
 
 
@@ -27,13 +25,13 @@ I love creating interesting things and going to interesting places. Currently at
 
 - 🧑‍🎓Studying abroad at City University of Hong Kong 🇭🇰
 - 🌸Learning new languages like Rust and Component Pascal for CNC G-Code
-- 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [auto-anki](https://github.com/timmy6figures/auto-anki)
+- 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [autoanki](https://github.com/timmy6figures/autoanki)
 - Completing cybersecurity challanges such as [Hack the Box](https://www.hackthebox.com/)
 
 
 ## 💡Some of my most interesting projects💡
 
-📝  [auto-anki](https://github.com/timmy6figures/auto-anki) is a tool to help create decks for Anki, a flashcard memorization tool. 
+📝  [autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create decks for Anki, a flashcard memorization tool. 
 
 👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
