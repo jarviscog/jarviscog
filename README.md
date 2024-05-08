@@ -22,11 +22,11 @@ Current student at Western University for Computer Science with a Minor in Compu
 
 ## I'm currently working on
 
-
-- 🧑‍🎓Studying abroad at City University of Hong Kong 🇭🇰
+- 🧑‍🎓Completing my last course for school
 - 🌸Learning new languages like Rust and Component Pascal for CNC G-Code
 - 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [autoanki](https://github.com/timmy6figures/autoanki)
 - Completing cybersecurity challanges such as [Hack the Box](https://www.hackthebox.com/)
+- Focusing on my hobbies, like language learning and Running
 
 
 ## 💡Some of my most interesting projects💡
@@ -35,11 +35,9 @@ Current student at Western University for Computer Science with a Minor in Compu
 
 👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
-🎹 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano that plays itself! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
+🎹 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
 
 📺 [NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language.
-
-♟️ [Cota](https://github.com/timmy6figures/cota) is a board game that mixes elements from Chess, 象棋, Shogi, and Go. The game was created by a Vietnamese friend, and this is a virtual version that I used to learn the Rust language.
 
 🌊 [openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer graphics course taken at University. OpenGL was used during the course, and some interesting algorithms and techniques were used during the course, such as a marching cubes algorithm.
 
@@ -71,6 +69,4 @@ I'm always happy to talk to new people. Feel free to contact me with anything yo
 </p>
 
 ## Resources
-#### 📄  [Projects](https://github.com/timmy6figures/timmy6figures/blob/main/Projects.pdf)
-
 
