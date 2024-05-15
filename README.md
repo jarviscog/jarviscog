@@ -1,4 +1,3 @@
-# Hey! <img src="wave.gif" data-canonical-src="wave.gif" width="30" height="30" /> I'm Jarvis
 ## Welcome to my Github! 
 Current student at Western University for Computer Science with a Minor in Computer Hardware
 
@@ -19,16 +18,6 @@ Current student at Western University for Computer Science with a Minor in Compu
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-orange.svg?style=flat&logo=rust&logoColor=white)
 
-
-## I'm currently working on
-
-- 🧑‍🎓Completing my last course for school
-- 🌸Learning new languages like Rust and Component Pascal for CNC G-Code
-- 🧹Polishing some old projects like [Bertha2](https://github.com/boyesm/Bertha2) and [autoanki](https://github.com/timmy6figures/autoanki)
-- Completing cybersecurity challanges such as [Hack the Box](https://www.hackthebox.com/)
-- Focusing on my hobbies, like language learning and Running
-
-
 ## 💡Some of my most interesting projects💡
 
 📝  [autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create decks for Anki, a flashcard memorization tool. 
@@ -43,8 +32,7 @@ Current student at Western University for Computer Science with a Minor in Compu
 
   
 ## 🤝Reach out!
-I'm always happy to talk to new people. Feel free to contact me with anything you want to talk about. From coding, to languages, to travel.
-
+Feel free to contact me with anything you want to talk about. From coding, to languages, to travel.
 
 <p>
   <a href="https://www.linkedin.com/in/jarvis-coghlin-6b137a1a3/" title="Linkedin">
@@ -67,6 +55,4 @@ I'm always happy to talk to new people. Feel free to contact me with anything yo
   </a>
   
 </p>
-
-## Resources
 
