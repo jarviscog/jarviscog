@@ -1,5 +1,5 @@
 ## Welcome to my Github! 
-Current student at Western University for Computer Science with a Minor in Computer Hardware
+Newgrad working in Software Engineering and Security
 
 ## Skills
 
