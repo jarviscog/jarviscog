@@ -18,22 +18,20 @@ Current student at Western University for Computer Science with a Minor in Compu
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-orange.svg?style=flat&logo=rust&logoColor=white)
 
-## 💡Some of my most interesting projects💡
+## Some of my most interesting projects
 
-📝  [autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create decks for Anki, a flashcard memorization tool. 
+[autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create decks for Anki, a flashcard memorization tool. 
 
-👨‍🏭  [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
+[enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
-🎹 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
+[Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
 
-📺 [NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language.
+[NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language.
 
-🌊 [openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer graphics course taken at University. OpenGL was used during the course, and some interesting algorithms and techniques were used during the course, such as a marching cubes algorithm.
+[openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer graphics course taken at University. OpenGL was used during the course, and some interesting algorithms and techniques were used during the course, such as a marching cubes algorithm.
 
   
-## 🤝Reach out!
-Feel free to contact me with anything you want to talk about. From coding, to languages, to travel.
-
+## Contact
 <p>
   <a href="https://www.linkedin.com/in/jarvis-coghlin-6b137a1a3/" title="Linkedin">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
