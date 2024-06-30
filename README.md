@@ -20,7 +20,7 @@ Newgrad working in Software Engineering and Security
 
 ## Some of my most interesting projects
 
-[autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create decks for Anki, a flashcard memorization tool. 
+[autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create language decks for Anki, a flashcard memorization tool. 
 
 [enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
