@@ -20,15 +20,15 @@ Newgrad working in Software Engineering and Security
 
 ## Some of my most interesting projects
 
-[autoanki](https://github.com/timmy6figures/autoanki) is a tool to help create language decks for Anki, a flashcard memorization tool. 
+[autoanki](https://github.com/jarviscog/autoanki) is a tool to help create language decks for Anki, a flashcard memorization tool. 
 
-[enhanced-flashbang](https://github.com/timmy6figures/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
+[enhanced-flashbang](https://github.com/jarviscog/enhanced-flashbang) is a hardware addon for the video game CS:GO. Whenever a flashbang goes off in the game, a real life flash goes off in your face! 
 
 [Bertha2](https://github.com/boyesm/Bertha2) is a self-playing piano! Sometimes streaming on Twitch, enter a Youtube link in chat and it will attempt to play it!
 
-[NAND to Tetris](https://github.com/timmy6figures/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language.
+[NAND to Tetris](https://github.com/jarviscog/nand-to-tetris) is a guided course where you build your own computer from the ground up, going from logic gates, to an ALU, to a compiler, to a Java-like high level language.
 
-[openGLProjects](https://github.com/timmy6figures/openGLProjects) is a collection of assignments created during a computer graphics course taken at University. OpenGL was used during the course, and some interesting algorithms and techniques were used during the course, such as a marching cubes algorithm.
+[openGLProjects](https://github.com/jarviscog/openGLProjects) is a collection of assignments created during a computer graphics course taken at University. OpenGL was used during the course, and some interesting algorithms and techniques were used during the course, such as a marching cubes algorithm.
 
   
 ## Contact
