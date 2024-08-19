@@ -1,4 +1,3 @@
-## Welcome to my Github! 
 Newgrad working in Software Engineering and Security
 
 ## Skills
