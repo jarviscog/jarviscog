@@ -1,5 +1,6 @@
 Newgrad working in Software Engineering and Security
 
+Check out my [personal website](https://jarviscog.github.io).
 ## Skills
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
