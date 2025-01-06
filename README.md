@@ -1,4 +1,4 @@
-Newgrad working in Software Engineering and Security
+Newgrad working in Software Engineering
 
 Check out my [personal website](https://jarviscog.github.io).
 
